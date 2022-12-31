@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @JamierocktHD
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on JonnyTutorials :]
-- 📫 How to reach JamieRockt.de
